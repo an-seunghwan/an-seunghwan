@@ -6,3 +6,7 @@
 - Variational AutoEncoder
 - Optimization
 - Image Generation
+
+### Contact
+- dpeltms79@gmail.com
+- https://an-seunghwan.github.io/
