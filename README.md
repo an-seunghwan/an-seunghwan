@@ -1,7 +1,7 @@
 ### Graduate Student
 - Dept. of Statistics, University of Seoul
 
-### Interest of
+### Interested in
 - Neural Network Modeling
 - Variational AutoEncoder
 - Optimization
