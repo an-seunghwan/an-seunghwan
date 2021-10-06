@@ -4,8 +4,8 @@
 ### Interested in
 - Neural Network Modeling
 - Variational AutoEncoder
-- Optimization
 - Image Generation
+- Optimization
 
 ### Contact
 - dpeltms79@gmail.com
