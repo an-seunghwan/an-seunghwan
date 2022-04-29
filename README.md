@@ -5,6 +5,7 @@
 - Neural Network Modeling
 - Variational AutoEncoder
 - Image Generation
+- Semi-supervised learning
 - Optimization
 
 ### Contact
