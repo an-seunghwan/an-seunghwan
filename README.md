@@ -7,6 +7,7 @@
 - Image Generation
 - Semi-supervised learning
 - Optimization
+- Causal Structure Learning (DAG)
 
 ### Contact
 - dpeltms79@gmail.com
