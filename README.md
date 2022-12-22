@@ -2,12 +2,10 @@
 - Dept. of Statistics, University of Seoul
 
 ### Interested in
-- Neural Network Modeling
 - Variational AutoEncoder
-- Image Generation
-- Semi-supervised learning
+- Causal Inference
+- Synthetic Data Generation 
 - Optimization
-- Causal Structure Learning (DAG)
 
 ### Contact
 - dpeltms79@gmail.com
