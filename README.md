@@ -3,9 +3,9 @@
 
 ### Interested in
 - Variational AutoEncoder
-- Causal Inference
 - Synthetic Data Generation 
 - Optimization
+- Causal Inference
 
 ### Contact
 - dpeltms79@gmail.com
