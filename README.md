@@ -1,12 +1,11 @@
 ### Graduate Student
-- Dept. of Statistics, University of Seoul
+- Dept. of Statistical Data Science, University of Seoul
 
 ### Interested in
 - Variational AutoEncoder
-- Synthetic Data Generation 
-- Optimization
-- Causal Inference
+- Synthetic Data Generation
+- Distributional Learning
 
 ### Contact
+- https://sites.google.com/view/an-seunghwan
 - dpeltms79@gmail.com
-- https://an-seunghwan.github.io/
