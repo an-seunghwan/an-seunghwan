@@ -1,5 +1,5 @@
 ### Graduate Student
-- Dept. of Statistical Data Science, University of Seoul
+- Department of Statistics, University of Seoul
 
 ### Interested in
 - Variational AutoEncoder
