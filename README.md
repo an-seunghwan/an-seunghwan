@@ -2,6 +2,7 @@
 - Department of Statistics, University of Seoul
 
 ### Interested in
+- Tabular Data Synthesis
 - Variational AutoEncoder
 - Synthetic Data Generation
 - Distributional Learning
