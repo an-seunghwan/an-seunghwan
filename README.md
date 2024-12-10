@@ -1,4 +1,4 @@
-### Graduate Student
+### Ph.D. of statistics
 - Department of Statistics, University of Seoul
 
 ### Interested in
