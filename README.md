@@ -1,4 +1,4 @@
-### Ph.D. of statistics
+### Ph.D. in statistics
 - Department of Statistics, University of Seoul
 
 ### Interested in
