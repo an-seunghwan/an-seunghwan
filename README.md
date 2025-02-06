@@ -1,3 +1,5 @@
+**Assistant professor@Department of Information and Telecommunication Engineering, Incheon National University**
+
 ### Ph.D. in statistics
 - Department of Statistics, University of Seoul
 
