@@ -1,14 +1,16 @@
-**Assistant professor@Department of Information and Telecommunication Engineering, Incheon National University**
+**Assistant professor**
+- @Department of Information and Telecommunication Engineering, Incheon National University
 
 #### Ph.D. in statistics
 - Department of Statistics, University of Seoul
 
 #### Interested in
-- Tabular Data Synthesis
-- Variational AutoEncoder
-- Synthetic Data Generation
+- Time Series Anomaly Detection
+- Time Series Forecasting
 - Distributional Learning
+- Variational AutoEncoder
+- Tabular Data Synthesis
 
 #### Contact
 - https://sites.google.com/view/an-seunghwan
-- dpeltms79@gmail.com
+- sh.an@inu.ac.kr
